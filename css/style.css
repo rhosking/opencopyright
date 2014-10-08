@@ -477,6 +477,9 @@
 			background: #222222 url(../images/one-scene-banner.jpeg) no-repeat;
 			background-size: cover;
 		}
+		.wrapper.style1.small {
+			background-position: bottom;
+		}
 
 		.wrapper.style2 {
 			background: #f2f2f2;
